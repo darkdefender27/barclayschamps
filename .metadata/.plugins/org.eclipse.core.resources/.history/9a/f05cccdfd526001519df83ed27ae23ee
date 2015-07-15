@@ -1,0 +1,20 @@
+package com.cg.demo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class PersonService {
+
+	public Person getOne(){
+		List<Person> ls = new ArrayList<Person>();
+		ls.add(new Person("Sagar"));
+		ls.add(new Person("Kalyan"));
+		ls.add(new Person("Saurabh"));
+		ls.add(new Person("Santosh"));
+		return ls;
+	}
+	
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="06. Mapping Requests By Class"/>
+<aop-project name="08. Publishing XML With REST Services"/>
+<aop-project name="07. Resolving Views From An XML Configuration File"/>
+<aop-project name="01. p &amp; c schema"/>
+<aop-project name="09. Implementing DAO With JDBC"/>
+<aop-project name="10. Using JDBC Template to Update a Database"/>
+<aop-project name="05. Mapping Requests With RequestMapping"/>
+<aop-project name="02. constructor ambiguity"/>
+<aop-project name="04. Using Multiple Configuration Files In An MVC Application"/>
+<aop-project name="03. MVC"/>
+</aop-reference-model>

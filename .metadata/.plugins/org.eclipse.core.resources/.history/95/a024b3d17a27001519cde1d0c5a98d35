@@ -1,0 +1,7 @@
+package com.cg.demo;
+
+public interface ActorDAO {
+	public void insert(Actor actor);
+	public Actor findByFirstName(String firstName);
+	public Actor findById(int id);
+}

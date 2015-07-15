@@ -1,0 +1,7 @@
+package com.cg.demo;
+
+@Service
+public class PersonService {
+
+	
+}

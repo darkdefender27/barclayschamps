@@ -1,0 +1,13 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/01.\ P\ namespace/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.namespaces" index\="1" kind\="formPage"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/01.\ p\ &\ a\ schema/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage id\="com.springsource.sts.config.ui.editors.namespaces" index\="1" kind\="formPage"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/01.\ p\ &\ c\ schema/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/02.\ constructor\ ambiguity/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/03.\ MVC/WebContent/WEB-INF/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/04.\ Using\ Multiple\ Configuration\ Files\ In\ An\ MVC\ Application/WebContent/WEB-INF/serviceConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/07.\ Resolving\ Views\ From\ An\ XML\ Configuration\ File/WebContent/WEB-INF/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/07.\ Resolving\ Views\ From\ An\ XML\ Configuration\ File/WebContent/WEB-INF/hello-views.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/07.\ Resolving\ Views\ From\ An\ XML\ Configuration\ File/WebContent/WEB-INF/serviceConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/08.\ Publishing\ XML\ With\ REST\ Services/WebContent/WEB-INF/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/09.\ Implementing\ DAO\ With\ JDBC/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringTraining/src/main/java/beanConfig.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="04. Using Multiple Configuration Files In An MVC Application">
+        <property name="context-root" value="04._Using_Multiple_Configuration_Files_In_An_MVC_Application"/>
+    </wb-module>
+</project-modules>

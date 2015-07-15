@@ -1,0 +1,23 @@
+package com.cg.demo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+@Controller
+
+public class RESTController {
+
+	@Autowired
+	private PersonService service;
+	//@Produces("text/plain")
+	@RequestMapping(value= "/xml",method=RequestMethod.GET,produces=)
+	public @ResponseBody Person returnXML(){
+		System.out.println("Method called");
+		System.out.println(service.getOne());
+		return service.getOne();
+		//return "hello";
+	}
+}

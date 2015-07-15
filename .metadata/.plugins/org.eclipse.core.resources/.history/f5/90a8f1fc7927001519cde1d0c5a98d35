@@ -1,0 +1,17 @@
+package com.cg.demo;
+
+public class JdbcActorDAO implements ActorDAO {
+
+	@Override
+	public void insert(Actor actor) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Actor findByFirstName(String firstName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

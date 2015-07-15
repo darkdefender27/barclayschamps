@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+D:\sagar\Training\July15\barclays\code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4059964847.index
+\06. Mapping Requests By Class\src
+D:\sagar\Training\July15\barclays\code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3168654426.index
+\03. MVC\src
+D:\sagar\Training\July15\barclays\code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3231104623.index
+\05. Mapping Requests With RequestMapping\src
+D:\sagar\Training\July15\barclays\code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1208598495.index
+\07. Resolving Views From An XML Configuration File\src
+D:\sagar\Training\July15\barclays\code\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2281864642.index
+\04. Using Multiple Configuration Files In An MVC Application\src

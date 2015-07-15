@@ -1,0 +1,12 @@
+package com.cg.demo;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class PersonService {
+
+	public Person getOne(){
+		
+		return new Person("Sagar");
+	}
+}

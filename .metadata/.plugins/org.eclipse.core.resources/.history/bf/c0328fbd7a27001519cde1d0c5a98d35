@@ -1,0 +1,42 @@
+package com.cg.demo;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+import javax.sql.DataSource;
+
+public class JdbcActorDAO implements ActorDAO {
+
+	private DataSource datasource;
+	
+	
+	public void setDatasource(DataSource datasource) {
+		this.datasource = datasource;
+	}
+
+	@Override
+	public void insert(Actor actor) {
+		// TODO Auto-generated method stub
+		String sql = "INSERT INTO ACTOR(first_name,last_name) values (?,?,?)";
+		Connection conn = null;
+		try{
+			conn = datasource.getConnection();
+			PreparedStatement ps = conn.prepareStatement(sql);
+			ps.setString(1,actor.getFirstName());
+			ps.setString(2,actor.getLastName());
+		}
+	}
+
+	@Override
+	public Actor findByFirstName(String firstName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Actor findById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

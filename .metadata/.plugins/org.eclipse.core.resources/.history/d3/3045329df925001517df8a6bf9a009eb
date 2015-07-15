@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="07. Resolving Views From An XML Configuration File">
+        <property name="context-root" value="07._Resolving_Views_From_An_XML_Configuration_File"/>
+        <property name="java-output-path" value="/07. Resolving Views From An XML Configuration File/build/classes"/>
+    </wb-module>
+</project-modules>

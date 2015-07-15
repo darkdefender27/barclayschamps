@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="a1" class="com.cg.demo.Account">
+		<constructor-arg value="10" />
+		<constructor-arg value="10000" />
+	</bean>
+
+	<bean id="a2" class="com.cg.demo.Account">
+		<constructor-arg type="int" value="10" />
+		<constructor-arg type="int" value="10000" />
+	</bean>
+	
+	<bean id="a3" class="com.cg.demo.Account">
+		<constructor-arg type="java.lang.String" value="saving" />
+		<constructor-arg type="int" value="10" />
+	</bean>
+	
+	<bean id="a4" class="com.cg.demo.Account">
+		<constructor-arg index="0" type="java.lang.String" value="saving" />
+		<constructor-arg index ="1" type="int" value="10" />
+	</bean>
+	
+	<bean id="a4" class="com.cg.demo.Account">
+		<constructor-arg name="type" value="saving" />
+		<constructor-arg name="number" value="10" />
+	</bean>
+
+</beans>
